@@ -1,6 +1,6 @@
 # DIABETES PREDICTION (CAPSTONE PROPOSAL)
 
-This project is a requirement to graduate from the Machine Learning Engineer Nanodegree Programme offered by Udacity.
+This project is a requirement to graduate from the Machine Learning Engineer Nanodegree Programme offered by Udacity. It sought to build a model that could predict the risk of an individual being diabetic using vitals such as blood glucose concentration and bmi.
 
 It includes a jupyter notebook named **diabetes_prediction_proposal.ipynb**, a pdf version of it named **proposal.pdf** and the diabetes dataset **diabetes.csv** to be used for the project.
 
