@@ -16,6 +16,8 @@ The project gives the following;
 * References.
 * Acknowledgements.
 
+This Proposal was accepted by Udacity.
+
 MIT License
 
 Copyright (c) 2020 Emmanuel Kwasi Fiagbedzi
